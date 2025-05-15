@@ -1,5 +1,5 @@
-import React from "react";
-import "./MyButton.css";
+import React from 'react';
+import './MyButton.css';
 
 const MyButton = ({ label = "Click Me", onClick }) => {
   return (
